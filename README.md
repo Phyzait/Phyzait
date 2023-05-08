@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div style="display: flex; justify-content: space-around;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Phyzait&show_icons=true&theme=tokyonight" 
+    style="flex: 1; height: 165px;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phyzait&layout=compact&theme=tokyonight" 
+    style="flex: 1; height: 165px;"
+  />
+</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,dart,flutter,ts,js,html,css,react,vue,py,cpp,cs)](https://skillicons.dev)
